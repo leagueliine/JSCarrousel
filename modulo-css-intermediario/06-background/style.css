@@ -1,0 +1,33 @@
+p {
+  color: orange;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.bg {
+  background-color: lightgreen;
+  background-image: url('img/dell-0J8thHZfosE-unsplash.jpg');
+}
+
+.bg-image {
+  width: 6040px;
+  height: 4024px;
+}
+
+.bg-repeat {
+  background-repeat: no-repeat;
+  height: 540px;
+}
+
+/*
+bg-size-cover{
+background-size: cover;
+'cobrir todo elemento(div)'
+
+background-attachment: fixed
+'imagem fixa no fundo'
+background-attachment: scroll;
+'roleta junto a pagina'
+
+}
+*/
